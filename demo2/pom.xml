@@ -42,7 +42,7 @@
 				<configuration>
 					<testFailureIgnore> false </testFailureIgnore>
 					<suiteXmlFiles>
-						<suiteXmlFile>C:\Users\BOSU\eclipse-workspace\demo2\testng.xml</suiteXmlFile>
+						<suiteXmlFile>testng.xml</suiteXmlFile>
 
 					</suiteXmlFiles>
 				</configuration>
